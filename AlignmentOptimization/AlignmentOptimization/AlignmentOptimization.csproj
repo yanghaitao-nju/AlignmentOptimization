@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UniversalAlignmentLibrary">
+      <HintPath>D:\alignment\SpellerGarage\src\Tools\UniversalAlignmentLibrary\UniversalAlignmentLibrary\bin\x64\Debug\UniversalAlignmentLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
